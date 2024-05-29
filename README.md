@@ -1,1 +1,1 @@
-# CICH
+# Contrastive Incomplete Cross-modal Hashing

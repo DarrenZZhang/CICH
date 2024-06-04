@@ -2,7 +2,7 @@
 
 This is an example implementation of [our paper](https://ieeexplore.ieee.org/document/xxxx):
 
-H. Luo, Z. Zhang✉, L. Nie, Contrastive Incomplete Cross-modal Hashing, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
+H. Luo, Z. Zhang, L. Nie, Contrastive Incomplete Cross-modal Hashing, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
 
 #### Citation:
 

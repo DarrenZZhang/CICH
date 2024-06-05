@@ -12,7 +12,7 @@ If you find our approach useful in your research, please consider citing:
   title={Contrastive Incomplete Cross-modal Hashing},  
   author={Luo, Haoyang and Zhang, Zheng and Nie, Liqiang},  
   journal={IEEE Transactions on Knowledge and Data Engineering},  
-  pages={doi},  
+  pages={doi: 10.1109/TKDE.2024.3410388},  
   year={2024},  
   publisher={IEEE}  
 }

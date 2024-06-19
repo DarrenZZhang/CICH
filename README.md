@@ -19,6 +19,8 @@ We mainly evaluate on the following datasets.
 The command for training is
 * python3 main.py
 
+#### If you find the code useful, please cite the following references:
+
 H. Luo, Z. Zhang and L. Nie, "Contrastive Incomplete Cross-Modal Hashing," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2024.3410388, 2024.
 
 #### Citation:

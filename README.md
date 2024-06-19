@@ -1,8 +1,25 @@
 # Contrastive Incomplete Cross-modal Hashing (CICH)
 
-This is an example implementation of [our paper](https://ieeexplore.ieee.org/document/xxxx):
+The details can be found in the [TKDE 2024 paper](https://ieeexplore.ieee.org/document/10557685). 
 
-H. Luo, Z. Zhang, L. Nie, Contrastive Incomplete Cross-modal Hashing, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
+
+#### Implementation Environment: 
+* python 3.8
+* pytorch 2.0.1+cu118
+* See requirements.txt for other package requirements.
+
+#### Datasets
+We mainly evaluate on the following datasets.
+
+* MIRFlickr-25k
+* MSCOCO
+* NUSWIDE
+
+#### Training
+The command for training is
+* python3 main.py
+
+H. Luo, Z. Zhang and L. Nie, "Contrastive Incomplete Cross-Modal Hashing," in IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2024.3410388, 2024.
 
 #### Citation:
 
